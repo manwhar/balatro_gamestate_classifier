@@ -1,0 +1,9 @@
+{
+  "id": "gamestate_dataset_cv",
+  "name": "gamestate_dataset_cv",
+  "author": ["Dukky"],
+  "description": "Obvious test mod: adds $999 at run start",
+  "prefix": "gdcv",
+  "main_file": "main.lua",
+  "version": "1.0.0"
+}
